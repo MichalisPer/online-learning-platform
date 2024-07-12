@@ -1,4 +1,4 @@
-package com.personal.mp.learning_platform.course;
+package com.personal.mp.learning_platform;
 
 import com.personal.mp.learning_platform.model.Course;
 import com.personal.mp.learning_platform.repository.CourseRepository;
